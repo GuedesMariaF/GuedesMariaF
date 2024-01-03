@@ -4,7 +4,7 @@
 <div align="center">  
 <h3 align="left">##Languaguens e Ferramentas:</h3>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaFernadaG&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=956AF0&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username==MariaFernadaGs&layout=compact&hide_border=true&title_color=9370DB&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaFernadaGs&layout=compact&hide_border=true&title_color=9370DB&text_color=c9d1d9&bg_color=0d1117" />
 </div>
  ### Estudando no momento:
 <div style="display: inline_block"><br>
