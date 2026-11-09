@@ -17,4 +17,4 @@ Sou desenvolvedora full stack e trabalho com React, TypeScript, Laravel e Flutte
  
 - [portfólio](https://portifolio-maria-guedes.vercel.app/) 
 - [outro projeto](https://github.com/GuedesMariaF/) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuedesMariaF&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="150">
