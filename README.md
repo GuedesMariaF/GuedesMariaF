@@ -1,7 +1,7 @@
 ## Oi, sou a Maria Fernanda
  
 Sou desenvolvedora full stack e trabalho com React, TypeScript, Laravel e Flutter. No dia a dia faço de tudo um pouco: interfaces, APIs, deploy, e também coordeno a equipe, conversando com clientes, levantando requisitos e acompanhando as entregas.
-[Portfólio](https://portifolio-maria-guedes.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN/) · [E-mail](mailto:SEU-EMAIL@email.com)
+[Portfólio](https://portifolio-maria-guedes.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mariafernandaguedes/)
  
 ### Stack
  
@@ -15,6 +15,6 @@ Sou desenvolvedora full stack e trabalho com React, TypeScript, Laravel e Flutte
  
 ### Projetos
  
-- [portfólio](https://portifolio-maria-guedes.vercel.app/) — meu site pessoal
-- [outro projeto](https://github.com/SEU-USUARIO/projeto) — descrição curta
+- [portfólio](https://portifolio-maria-guedes.vercel.app/) 
+- [outro projeto](https://github.com/GuedesMariaF/) 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="150">
